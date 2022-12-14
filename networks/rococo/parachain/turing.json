@@ -1,10 +1,10 @@
 {
   "data": {
     "ParaID": "2114",
-    "Project Name": "Turing Staging Network",
+    "Project Name": "Turing Staging",
     "Logo": "../../assets/images/turing.png",
     "Description (en)": "Turing Staging Network is an automation blockchain for Defi and recurring payments in Rococo.",
-    "Description (zh)": "",
+    "Description (zh)": "Turing Staging 网络是用于 Defi 和 Rococo 重复支付的自动化区块链。",
     "Parachain Crowdloans Allocation (en)": "",
     "Parachain Crowdloans Allocation (zh)": "",
     "Auction Reward & Reward Vesting Schedule (en)": "",
